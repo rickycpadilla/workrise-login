@@ -13,3 +13,4 @@ After cloning this repo
 * Xcode
 * Android Studio and Emulator
 * Node
+* `secrets.ts` file that contains secret keys not tracked in git
